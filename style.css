@@ -1,0 +1,64 @@
+header{
+    width: auto;
+    padding: 20px;
+    background-color: black;
+    border-radius: 15px;
+}
+.pied{
+    color: white;
+    text-align: center;
+    text-transform:uppercase;
+}
+#Menu{
+    width: auto;
+    padding: 5px;
+    background-color: black;
+    border-radius: 15px;
+    margin: 2px;
+}
+.lien{
+    text-align: center;
+    display: block;
+    border-style: solid white;
+    padding: 10px ;
+}
+a{    
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+a:hover {
+    color: hotpink;
+    text-decoration: underline;
+
+  }
+h2{
+    text-align: center;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+   
+}
+#divArticle{
+    background-color:aliceblue;
+    border-radius:20px;
+    width: auto;
+    height: auto;
+    justify-content:right;
+    margin: 10px;
+    
+
+}
+#titre{
+    margin: 2px;
+    padding: 2px;
+}
+
